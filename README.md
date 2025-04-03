@@ -22,6 +22,6 @@ cargo run -- --port COM4 --baud 9600 --out temp.csv
 
 ## Requirements
 
-Rust (latest stable)
-A USB-connected Arduino or serial device
-A sensor like TMP35 that outputs readable temperature data
+- Rust (latest stable)
+- A USB-connected Arduino or serial device
+- A sensor like TMP35 that outputs readable temperature data
