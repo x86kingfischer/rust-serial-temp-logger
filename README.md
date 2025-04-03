@@ -18,6 +18,7 @@ A lightweight command-line utility that logs temperature data from a serial devi
 
 ```bash
 cargo run -- --port COM4 --baud 9600 --out temp.csv
+```
 
 ## Requirements
 
