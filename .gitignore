@@ -1,1 +1,6 @@
-/target
+# Rust stuff
+target/
+**/*.rs.bk
+
+# log file
+*.csv
